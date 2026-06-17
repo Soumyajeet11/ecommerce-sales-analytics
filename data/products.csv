@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Microwave 1,Home Appliances,9252
+2,Dining Table 2,Furniture,37901
+3,Smart Watch 3,Electronics,37009
+4,Bluetooth Speaker 4,Electronics,68807
+5,Laptop 5,Electronics,12828
+6,Sneakers 6,Fashion,13927
+7,Keyboard 7,Electronics,52606
+8,Coffee Table 8,Furniture,18224
+9,Wardrobe 9,Furniture,76134
+10,T-Shirt 10,Fashion,27234
+11,Handbag 11,Fashion,22599
+12,Laptop 12,Electronics,26316
+13,Vacuum Cleaner 13,Home Appliances,10309
+14,Water Purifier 14,Home Appliances,75526
+15,Jeans 15,Fashion,14212
+16,Dress 16,Fashion,50103
+17,Jeans 17,Fashion,61641
+18,Handbag 18,Fashion,64346
+19,Monitor 19,Electronics,66511
+20,TV Unit 20,Furniture,17874
+21,Jeans 21,Fashion,64153
+22,Shirt 22,Fashion,22026
+23,Microwave 23,Home Appliances,55485
+24,Desk 24,Furniture,59539
+25,Printer 25,Electronics,57513
+26,Smartphone 26,Electronics,77900
+27,Dining Table 27,Furniture,67028
+28,Cabinet 28,Furniture,5643
+29,Bookshelf 29,Furniture,72087
+30,Desk 30,Furniture,48056
+31,Dining Table 31,Furniture,6168
+32,Socks 32,Fashion,69116
+33,Dress 33,Fashion,26922
+34,Microwave 34,Home Appliances,68551
+35,Microwave 35,Home Appliances,31978
+36,Microwave 36,Home Appliances,38961
+37,Jeans 37,Fashion,10144
+38,Dress 38,Fashion,21885
+39,Smartphone 39,Electronics,3889
+40,Microwave 40,Home Appliances,14394
+41,Desk 41,Furniture,75919
+42,Tablet 42,Electronics,39659
+43,Microwave 43,Home Appliances,41091
+44,Sneakers 44,Fashion,70684
+45,Tablet 45,Electronics,41354
+46,Refrigerator 46,Home Appliances,69150
+47,Office Chair 47,Furniture,35258
+48,Bed 48,Furniture,60427
+49,Bluetooth Speaker 49,Electronics,60509
+50,Laptop 50,Electronics,22898
+51,Smartphone 51,Electronics,62165
+52,Bluetooth Speaker 52,Electronics,25352
+53,Office Chair 53,Furniture,74651
+54,Monitor 54,Electronics,64667
+55,Handbag 55,Fashion,36792
+56,Headphones 56,Electronics,56107
+57,Coffee Table 57,Furniture,39415
+58,Jeans 58,Fashion,79282
+59,Washing Machine 59,Home Appliances,10821
+60,Keyboard 60,Electronics,28544
+61,Keyboard 61,Electronics,13746
+62,Smartphone 62,Electronics,64118
+63,Monitor 63,Electronics,68538
+64,Dining Table 64,Furniture,2978
+65,Headphones 65,Electronics,35920
+66,Mixer Grinder 66,Home Appliances,61734
+67,Coffee Table 67,Furniture,45735
+68,Wardrobe 68,Furniture,64659
+69,Hoodie 69,Fashion,73654
+70,Shirt 70,Fashion,35906
+71,Cabinet 71,Furniture,8620
+72,Laptop 72,Electronics,46004
+73,Bookshelf 73,Furniture,5972
+74,Mixer Grinder 74,Home Appliances,68294
+75,Air Conditioner 75,Home Appliances,74195
+76,Bluetooth Speaker 76,Electronics,42789
+77,Water Purifier 77,Home Appliances,59814
+78,Sneakers 78,Fashion,63738
+79,Bed 79,Furniture,5147
+80,Cabinet 80,Furniture,8526
+81,Bluetooth Speaker 81,Electronics,12790
+82,Mouse 82,Electronics,72653
+83,Desk 83,Furniture,78920
+84,Cabinet 84,Furniture,33207
+85,Air Conditioner 85,Home Appliances,3850
+86,Keyboard 86,Electronics,13980
+87,Bluetooth Speaker 87,Electronics,61620
+88,Jacket 88,Fashion,28120
+89,Bed 89,Furniture,62415
+90,Laptop 90,Electronics,31182
+91,Smartphone 91,Electronics,67114
+92,Monitor 92,Electronics,33760
+93,Tablet 93,Electronics,23879
+94,Cap 94,Fashion,646
+95,Jacket 95,Fashion,45564
+96,Desk 96,Furniture,4861
+97,Coffee Table 97,Furniture,54640
+98,Smartphone 98,Electronics,23710
+99,Office Chair 99,Furniture,38314
+100,TV Unit 100,Furniture,63981
